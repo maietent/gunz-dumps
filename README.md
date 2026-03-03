@@ -1,6 +1,6 @@
 # GunZ dumps
 
-a repository of gunz memory dumps  
+a repository of gunz process dumps  
 
 "what is this for?"  
 reverse engineering.
