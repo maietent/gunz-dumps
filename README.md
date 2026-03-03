@@ -6,7 +6,7 @@ a repository of gunz memory dumps
 reverse engineering.
 
 "how are you dumping the servers?"  
-with https://github.com/glmcdona/Process-Dump using the "fail to load directx" messagebox to dump the process while it is suspended
+with https://github.com/glmcdona/Process-Dump using the "fail to load directx" messagebox to dump the process while it is suspended. this allows me to dump fxp for example as it runs before its driver gets ran, which strips handles.
 
 
 
